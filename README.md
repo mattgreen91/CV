@@ -1,4 +1,4 @@
-<img src="https://github.com/mattgreen91/my-full-template/blob/master/logo.png" style="margin: 0;">
+<img src="https://github.com/mattgreen91/my-full-template/blob/master/logo.png" width="200" style="margin: 0;">
 
 Welcome USER_NAME,
 
